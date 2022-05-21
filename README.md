@@ -1,2 +1,2 @@
 
-# Graphical-Password-Authentication-Prototype
+# Graphical-Password-Authentication
